@@ -1,0 +1,27 @@
+/* src/App.css */
+
+.app {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  nav {
+    background-color: #232f3e; /* Amazon-like dark header */
+    padding: 10px;
+  }
+  
+  nav a {
+    color: #fff; /* White text color */
+    text-decoration: none; /* Remove underline */
+    margin: 0 15px;
+    font-size: 16px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  
+  .app-content {
+    padding: 20px;
+  }
+  
